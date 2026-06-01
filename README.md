@@ -1,32 +1,32 @@
-VS Code Preferences ⚙️✨
-This is the configuration for my personal Visual Studio Code Workspace (settings.json). The goal is to create a clean, distraction-free, and highly readable coding environment with a modern and minimalist design.
+## VS Code Preferences ⚙️✨
+ - This is the configuration for my personal Visual Studio Code Workspace (settings.json). The goal is to create a clean, distraction-free, and highly readable coding environment with a modern and minimalist design.
 
-Key Editor Choices 🎨
-Color Palette: Uses the Aura Dark (Soft Text) theme for a soothing, eye-friendly dark background.
+## Key Editor Choices 🎨
+ - Color Palette: Uses the Aura Dark (Soft Text) theme for a soothing, eye-friendly dark background.
 
-Typography & Layout: Font size is set to 16 with a line height of 1.75, ensuring comfortable reading during long coding sessions. Tab size is kept at 2 for compact indentation.
+ - Typography & Layout: Font size is set to 16 with a line height of 1.75, ensuring comfortable reading during long coding sessions. Tab size is kept at 2 for compact indentation.
 
 Minimalism: Minimap character rendering and bracket pair colorization are disabled to keep the editor interface clean and uncluttered.
 
-Extensions & Tools 🛠️
-Prettier (esbenp.prettier-vscode): Set as the default formatter for consistent code styling across projects.
+## Extensions & Tools 🛠️
+ - Prettier (esbenp.prettier-vscode): Set as the default formatter for consistent code styling across projects.
 
-Material Icon Theme: Adds clean and recognizable icons to the file explorer.
+ - Material Icon Theme: Adds clean and recognizable icons to the file explorer.
 
-Live Server: Configured to run silently without intrusive information messages or tag verifications.
+ - Live Server: Configured to run silently without intrusive information messages or tag verifications.
 
-GitHub Copilot: Explicitly disabled across all file types to maintain a fully manual coding experience.
+ - sGitHub Copilot: Explicitly disabled across all file types to maintain a fully manual coding experience.
 
-Features 🚀
-Fully automated formatting triggering instantly on save ("editor.formatOnSave": true).
+## Features 🚀
+ - Fully automated formatting triggering instantly on save ("editor.formatOnSave": true).
 
-Enhanced privacy by completely turning off VS Code telemetry.
+ - Enhanced privacy by completely turning off VS Code telemetry.
 
-Reduced noise with smart quick suggestions (disabled inside comments and strings).
+ - Reduced noise with smart quick suggestions (disabled inside comments and strings).
 
-Custom HTML formatting rules using the native VS Code HTML language features.
+ - Custom HTML formatting rules using the native VS Code HTML language features.
 
-Installation & Usage 📥
+## Installation & Usage 📥
 1. Open Visual Studio Code.
 
 2. Press Ctrl + Shift + P (or Cmd + Shift + P on macOS) to open the Command Palette.
