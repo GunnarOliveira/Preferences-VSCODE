@@ -39,7 +39,7 @@ Minimalism: Minimap character rendering and bracket pair colorization are disabl
 
 ## Screenshot 👀📸
 
-![VS Code workspace with Aura Dark theme placeholder]([./preview.PNG](https://github.com/GunnarOliveira/Preferences-VSCODE/blob/main/preview.png?raw=true)
+![VS Code workspace with Aura Dark theme placeholder](./preview.png)
 
 # Acknowledgments 🙏
 
